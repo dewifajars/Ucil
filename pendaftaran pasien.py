@@ -50,3 +50,4 @@ try:
     print("")
     print("Program telah selesai dijalankan.")
     
+#cmd
