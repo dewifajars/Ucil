@@ -48,3 +48,4 @@ try:
     print("")
     print("-------------------------------------")
     print("")
+    print("Program telah selesai dijalankan.")
