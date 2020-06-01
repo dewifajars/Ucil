@@ -51,3 +51,4 @@ try:
     print("Program telah selesai dijalankan.")
     
 #cmd
+#test
