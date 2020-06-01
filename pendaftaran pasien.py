@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun May 31 20:16:09 2020
-
-@author: User
-"""
-
 print ("PENDAFTARAN PASIEN")
 print(" ")
 
